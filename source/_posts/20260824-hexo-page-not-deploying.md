@@ -1,6 +1,7 @@
 ---
 title: "[Debugging] Hexo Page not deploying in Github pages?"
-type: Debugging
+categories:
+- Debugging
 ---
 
 # Why it happens?
