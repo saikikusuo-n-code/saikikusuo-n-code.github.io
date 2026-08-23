@@ -26,7 +26,7 @@ post:
   comment: "Comment"
   copyright: "Copyright"
   copyright1: "'Attribution-NonCommercial-ShareAlike 4.0'"
-  copyright2: "When using in your document, please keep the original link and author."
+  copyright2: "When using in your document, please attribute content with original link and author."
 donation:
   button: "Donate"
   headline: "Help us with donation"
