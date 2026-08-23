@@ -1,5 +1,5 @@
 ---
-title: Debugging: Hexo Page not deploying in Github pages?
+title: "[Debugging] Hexo Page not deploying in Github pages?"
 type: Debugging
 ---
 
