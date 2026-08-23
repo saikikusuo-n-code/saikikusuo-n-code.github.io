@@ -1,6 +1,7 @@
 ---
 title: "[Debugging] Hexo Page deployed but error 404?"
-type: Debugging
+categories:
+- Debugging
 ---
 
 # Why it happens?
