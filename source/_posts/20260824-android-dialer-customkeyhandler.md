@@ -466,7 +466,7 @@ Comapring original implementation and this change:
     }
 ```
 
-![Dialer testing 1](/images/20260824-1707.mp4)
+![Dialer testing 1](/images/20260824-1707.gif)
 
 ## Long pressing
 
@@ -630,7 +630,7 @@ We filter only 0-9 * # BACK key and longpressing state for assuming the event wa
 
 The required change is to clear the digits whenever we have long back press. Add setKeyLongPressListener and set to our digits view.
 
-![Dialer testing 2](/images/20260824-1736.mp4)
+![Dialer testing 2](/images/20260824-1736.gif)
 
 # Source
 
