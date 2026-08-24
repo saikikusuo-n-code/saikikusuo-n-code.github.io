@@ -527,7 +527,7 @@ public final int getRepeatCount ()
 Retrieve the repeat count of the event. For ACTION_DOWN events, this is the number of times the key has repeated with the first down starting at 0 and counting up from there. For ACTION_UP events, this is always 0.
 ```
 
-The lockLongPressKey state must change when repeatcount is >0, when it is not engaged, we trigger the message and engage setting, after 500ms longkey handle is triggered.
+The lockLongPressKey state must change when repeatcount is > 0, when it is not engaged, we trigger the message and engage setting, after 500ms longkey handle is triggered.
 
 ```
 sendMessageDelayed
