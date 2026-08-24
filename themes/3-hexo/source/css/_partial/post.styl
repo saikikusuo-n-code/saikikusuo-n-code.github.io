@@ -19,7 +19,8 @@
     min-height calc(100vh - 143px)
     margin 0 auto
     overflow-y auto
-    transition padding-right .5s
+    /* modify for fullscreen transition smoothing */
+    transition max-width .5s cubic-bezier(0.77, 0, 0.175, 1), padding-right .5s
     opacity: 1;
     &.fadeIns
       -webkit-animation fadeIns .3s
@@ -33,6 +34,9 @@
       -ms-animation fadeOuts .2s
       -o-animation fadeOuts .2s
       animation fadeOuts .2s
+    /* modify for fullscreen size */
+    &.fullscreen
+      max-width 80%
     article
       padding 2.5em
       background white

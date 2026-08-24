@@ -417,12 +417,16 @@ $(".full-toc .full,.semicircle").click(function (e) {
     if ($fullBtn.children().hasClass("min")) {
         $fullBtn.children().removeClass("min").addClass("max");
         $(".nav, .hide-list").addClass("fullscreen");
+        /* modify for fullscreen size */
+        content.addClass("fullscreen");
         content.delay(200).queue(function () {
             $fullBtn.addClass('fullscreen').dequeue();
         });
     } else {
         $fullBtn.children().removeClass("max").addClass("min");
         $(".nav, .hide-list").removeClass("fullscreen");
+        /* modify for fullscreen size */
+        content.removeClass("fullscreen");
         content.delay(300).queue(function () {
             $fullBtn.removeClass('fullscreen').dequeue();
         });
