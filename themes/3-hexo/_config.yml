@@ -49,7 +49,7 @@ category:
     - Tools.Scripts
     - Tech.Ref
   width:
-    lg: 280 # 1468px<屏幕宽度 左侧分类宽度
+    lg: 350 # 1468px<屏幕宽度 左侧分类宽度
     md: 135 # 1024px<屏幕宽度<=1468px 左侧分类宽度
     sm: 135 # 426px<屏幕宽度<=1024px 左侧分类宽度（ipad）
 # 多级分类说明：
