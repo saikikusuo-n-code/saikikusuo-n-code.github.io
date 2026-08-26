@@ -13,8 +13,6 @@ A Service is an application component that can perform long-running operations i
 
 We have an Android project which can be used at test for services. We have a sample SaikiService which runs in background and responds to a call for test function.
 
-Source examples will be provided later.
-
 ## How to insert service?
 
 This is the route for service being added in boot:
