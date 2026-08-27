@@ -1,5 +1,6 @@
 ---
 title: "[Debugging] Hexo Page not deploying in Github pages?"
+date: 2026-08-24 02:33:00
 categories:
 - Debugging
 ---

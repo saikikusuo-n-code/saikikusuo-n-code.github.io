@@ -1,5 +1,6 @@
 ---
 title: "[SW.Modification] Android - Frameworks - How to add service? How to use?"
+date: 2026-08-26 19:06:00
 categories:
 - SW.Modification
 - Devnotes

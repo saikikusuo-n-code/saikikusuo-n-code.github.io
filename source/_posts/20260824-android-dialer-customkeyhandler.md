@@ -1,5 +1,6 @@
 ---
 title: "[SW.Modification] Andorid - Dialer - Digits view custom key handling"
+date: 2026-08-24 17:50:00
 categories:
 - SW.Modification
 - Devnotes

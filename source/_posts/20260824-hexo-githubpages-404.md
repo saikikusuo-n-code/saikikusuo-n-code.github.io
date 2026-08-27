@@ -1,5 +1,6 @@
 ---
 title: "[Debugging] Hexo Page deployed but error 404?"
+date: 2026-08-24 02:34:00
 categories:
 - Debugging
 ---
